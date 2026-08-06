@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:10b981&height=190&section=header&text=Jose%20Uliana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=53&descSize=18" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:10b981&height=190&section=header&text=Jose%20Uliana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Estudante%20de%20Eng.%20de%20Software%20%C2%B7%20PUC%20Minas&descAlignY=53&descSize=17" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=10B981&center=true&vCenter=true&width=620&lines=Front-end%2C+Back-end+e+Banco+de+Dados;PWA+offline-first+rodando+em+produ%C3%A7%C3%A3o;Eu+me%C3%A7o+antes+de+afirmar" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=10B981&center=true&vCenter=true&width=620&lines=HTML+%7C+JavaScript+%7C+Python;Desenvolvendo+PWA+em+produ%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+dev" alt="" />
 
 <br />
 
@@ -23,8 +23,8 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Engenharia de Software** e desenvolvo aplicações web de ponta a
-ponta — interface, servidor e banco.
+Sou estudante de **Engenharia de Software na PUC Minas** e desenvolvo aplicações
+web de ponta a ponta.
 
 O que me interessa não é fazer funcionar na minha máquina. É fazer funcionar
 **quando dá errado**: sem internet, no celular de alguém no meio de um evento, com
@@ -34,7 +34,8 @@ semana, e foi ele que me ensinou mais do que qualquer tutorial.
 - 🏥 Construo e mantenho sozinho um **PWA offline-first em produção**, usado por
   uma equipe de atendimento pré-hospitalar
 - 🧪 **481 testes automatizados** entre front-end e back-end, rodando em CI
-- 📚 Estudando **Engenharia de Software**, com foco em web e dados
+- 📚 Cursando **Engenharia de Software na PUC Minas**
+- 🔎 **Buscando estágio** em desenvolvimento
 - 🇧🇷 Português nativo · inglês técnico
 
 <br />
