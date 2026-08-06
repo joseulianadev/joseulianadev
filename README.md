@@ -104,11 +104,9 @@ React + Vite  ·  Node.js + Express  ·  PostgreSQL  ·  PWA com Service Worker
     <td align="center" width="92"><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS"><img height="46" src="https://skillicons.dev/icons?i=css" alt="CSS" /></a></td>
     <td align="center" width="92"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img height="46" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a></td>
     <td align="center" width="92"><a href="https://www.python.org" title="Python"><img height="46" src="https://skillicons.dev/icons?i=python" alt="Python" /></a></td>
-    <td align="center" width="92"><a href="https://dev.java" title="Java"><img height="46" src="https://skillicons.dev/icons?i=java" alt="Java" /></a></td>
-    <td align="center" width="92"><a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img height="46" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" /></a></td>
+    <td align="center" width="92"><a href="https://react.dev" title="React"><img height="46" src="https://skillicons.dev/icons?i=react" alt="React" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="92"><a href="https://react.dev" title="React"><img height="46" src="https://skillicons.dev/icons?i=react" alt="React" /></a></td>
     <td align="center" width="92"><a href="https://vite.dev" title="Vite"><img height="46" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a></td>
     <td align="center" width="92"><a href="https://nodejs.org" title="Node.js"><img height="46" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a></td>
     <td align="center" width="92"><a href="https://expressjs.com" title="Express"><img height="46" src="https://skillicons.dev/icons?i=express" alt="Express" /></a></td>
@@ -121,15 +119,13 @@ React + Vite  ·  Node.js + Express  ·  PostgreSQL  ·  PWA com Service Worker
     <td align="center" width="92"><a href="https://git-scm.com" title="Git"><img height="46" src="https://skillicons.dev/icons?i=git" alt="Git" /></a></td>
     <td align="center" width="92"><a href="https://github.com" title="GitHub"><img height="46" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></td>
     <td align="center" width="92"><a href="https://github.com/features/actions" title="GitHub Actions"><img height="46" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a></td>
-    <td align="center" width="92"><a href="https://www.npmjs.com" title="npm"><img height="46" src="https://skillicons.dev/icons?i=npm" alt="npm" /></a></td>
   </tr>
   <tr>
+    <td align="center" width="92"><a href="https://www.npmjs.com" title="npm"><img height="46" src="https://skillicons.dev/icons?i=npm" alt="npm" /></a></td>
     <td align="center" width="92"><a href="https://code.visualstudio.com" title="VS Code"><img height="46" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a></td>
     <td align="center" width="92"><a href="https://learn.microsoft.com/pt-br/powershell/" title="PowerShell"><img height="46" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a></td>
     <td align="center" width="92"><a href="https://claude.com/product/claude-code" title="Claude Code"><img height="46" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" /></a></td>
     <td align="center" width="92"><a href="https://miro.com" title="Miro"><img height="46" src="https://cdn.simpleicons.org/miro/FFD02F" alt="Miro" /></a></td>
-    <td align="center" width="92"></td>
-    <td align="center" width="92"></td>
   </tr>
 </table>
 
