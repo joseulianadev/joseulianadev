@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:10b981&height=190&section=header&text=Jose%20Uliana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Estudante%20de%20Eng.%20de%20Software%20%C2%B7%20PUC%20Minas&descAlignY=53&descSize=17" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:10b981&height=180&section=header&text=Jose%20Uliana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=10B981&center=true&vCenter=true&width=620&lines=HTML+%7C+JavaScript+%7C+Python;Desenvolvendo+PWA+em+produ%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+dev" alt="" />
+### HTML | JavaScript | Python | Desenvolvendo PWA em produção | Buscando estágio em dev
+
+**Estudante de Eng. de Software · PUC Minas**
 
 <br />
 
