@@ -41,7 +41,7 @@ precisava ser feito.
 - 📚 Cursando **Engenharia de Software na PUC Minas**
 - 🔎 **Buscando estágio** em desenvolvimento
 - 🌐 Foco em **web e PWA**, com JavaScript e Python
-- 🇧🇷 Português nativo · inglês técnico
+- 🇧🇷 Português nativo · inglês intermediário (cursando)
 
 <br />
 
@@ -55,9 +55,42 @@ precisava ser feito.
 | **SportsLab** | PWA de gestão para academias e personal trainers | React 19 · Vite · Supabase |
 | **Barbearia** | PWA mobile-first de agenda e caixa para barbearia | React · Firebase |
 | **LogSync** | Análise e correção de jornadas de motoristas | Python |
+| **[Portfólio 3D](https://github.com/joseulianadev/portfolio)** | Portfólio em uma página com elementos 3D interativos | Three.js · Vite · GSAP |
 
-> Os repositórios são privados por envolverem dados de clientes reais.
-> Tenho prazer em conversar sobre as decisões de cada projeto.
+> Os quatro primeiros são privados por envolverem dados de clientes reais —
+> mas o **[portfólio é aberto](https://github.com/joseulianadev/portfolio)**, se
+> você quiser ler código meu antes de me chamar para conversar.
+
+<br />
+
+---
+
+## ⏱️ Tempo de código
+
+Como quase tudo que eu escrevo é de cliente e fica em repositório privado, meu
+gráfico de contribuições aqui do GitHub não conta a história direito. O WakaTime
+conta: ele mede tempo real de edição direto do editor, não importa onde o código
+esteja hospedado.
+
+<div align="center">
+
+<a href="https://wakatime.com/@8c599575-f50f-4b16-8094-448b43cca172">
+  <img
+    src="https://wakatime.com/badge/user/8c599575-f50f-4b16-8094-448b43cca172.svg"
+    alt="Tempo total de código medido pelo WakaTime"
+  />
+</a>
+
+<br /><br />
+
+<a href="https://wakatime.com/@8c599575-f50f-4b16-8094-448b43cca172">
+  <img
+    src="https://helio-github-stats.vercel.app/api/wakatime?username=8c599575-f50f-4b16-8094-448b43cca172&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=10b981&custom_title=Linguagens%20nesta%20semana"
+    alt="Linguagens que mais usei esta semana, medidas pelo WakaTime"
+  />
+</a>
+
+</div>
 
 <br />
 
@@ -73,24 +106,14 @@ precisava ser feito.
     <td align="center" width="92"><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS"><img height="46" src="https://skillicons.dev/icons?i=css" alt="CSS" /></a></td>
     <td align="center" width="92"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img height="46" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a></td>
     <td align="center" width="92"><a href="https://www.python.org" title="Python"><img height="46" src="https://skillicons.dev/icons?i=python" alt="Python" /></a></td>
-    <td align="center" width="92"><a href="https://react.dev" title="React"><img height="46" src="https://skillicons.dev/icons?i=react" alt="React" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="92"><a href="https://vite.dev" title="Vite"><img height="46" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a></td>
-    <td align="center" width="92"><a href="https://nodejs.org" title="Node.js"><img height="46" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a></td>
-    <td align="center" width="92"><a href="https://expressjs.com" title="Express"><img height="46" src="https://skillicons.dev/icons?i=express" alt="Express" /></a></td>
-    <td align="center" width="92"><a href="https://www.postgresql.org" title="PostgreSQL"><img height="46" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a></td>
-    <td align="center" width="92"><a href="https://supabase.com" title="Supabase"><img height="46" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="92"><a href="https://firebase.google.com" title="Firebase"><img height="46" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a></td>
-    <td align="center" width="92"><a href="https://vitest.dev" title="Vitest"><img height="46" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></a></td>
     <td align="center" width="92"><a href="https://git-scm.com" title="Git"><img height="46" src="https://skillicons.dev/icons?i=git" alt="Git" /></a></td>
     <td align="center" width="92"><a href="https://github.com" title="GitHub"><img height="46" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></td>
-    <td align="center" width="92"><a href="https://github.com/features/actions" title="GitHub Actions"><img height="46" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a></td>
+    <td align="center" width="92"><a href="https://vite.dev" title="Vite"><img height="46" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a></td>
+    <td align="center" width="92"><a href="https://www.npmjs.com" title="npm"><img height="46" src="https://skillicons.dev/icons?i=npm" alt="npm" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="92"><a href="https://www.npmjs.com" title="npm"><img height="46" src="https://skillicons.dev/icons?i=npm" alt="npm" /></a></td>
     <td align="center" width="92"><a href="https://code.visualstudio.com" title="VS Code"><img height="46" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a></td>
     <td align="center" width="92"><a href="https://learn.microsoft.com/pt-br/powershell/" title="PowerShell"><img height="46" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a></td>
     <td align="center" width="92"><a href="https://claude.com/product/claude-code" title="Claude Code"><img height="46" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" /></a></td>
@@ -140,6 +163,9 @@ Estou **procurando estágio ou primeira oportunidade** como desenvolvedor.
 </a>
 <a href="mailto:ulianajosee@gmail.com">
   <img src="https://img.shields.io/badge/ulianajosee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/joseulianadev/portfolio">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio%20%2B%20curr%C3%ADculo-10B981?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfólio e currículo" />
 </a>
 
 <br /><br />
