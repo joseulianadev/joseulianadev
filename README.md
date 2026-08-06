@@ -8,14 +8,20 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/joseuliana/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://github.com/joseulianadev" title="GitHub">
+  <img height="46" src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:ulianajosee@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://www.linkedin.com/in/joseuliana/" title="LinkedIn">
+  <img height="46" src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googleearth&logoColor=white" alt="Brasil" />
+<a href="mailto:ulianajosee@gmail.com" title="E-mail">
+  <img height="46" src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+
+<br /><br />
+
 <img src="https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-10B981?style=for-the-badge&logo=handshake&logoColor=white" alt="Aberto a estágio" />
+<img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googleearth&logoColor=white" alt="Brasil" />
 
 </div>
 
@@ -88,21 +94,36 @@ React + Vite  ·  Node.js + Express  ·  PostgreSQL  ·  PWA com Service Worker
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Linguagens e ferramentas
 
 <div align="center">
 
-**Linguagens e front-end**
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,vite,python" alt="" />
-
-**Back-end e dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase" alt="" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="" />
+<table>
+  <tr>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=express" alt="Express" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=npm" alt="npm" /></td>
+    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></td>
+  </tr>
+</table>
 
 </div>
 
