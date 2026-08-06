@@ -8,14 +8,14 @@
 
 <br />
 
-<a href="https://github.com/joseulianadev" title="GitHub">
-  <img height="46" src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/joseuliana/" title="LinkedIn">
-  <img height="46" src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img height="52" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:ulianajosee@gmail.com" title="E-mail">
-  <img height="46" src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img height="52" src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />
+</a>
+<a href="https://github.com/joseulianadev" title="GitHub">
+  <img height="52" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
 <br /><br />
@@ -100,28 +100,32 @@ React + Vite  ·  Node.js + Express  ·  PostgreSQL  ·  PWA com Service Worker
 
 <table>
   <tr>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=react" alt="React" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></td>
+    <td align="center" width="92"><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML"><img height="46" src="https://skillicons.dev/icons?i=html" alt="HTML" /></a></td>
+    <td align="center" width="92"><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS"><img height="46" src="https://skillicons.dev/icons?i=css" alt="CSS" /></a></td>
+    <td align="center" width="92"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img height="46" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a></td>
+    <td align="center" width="92"><a href="https://www.python.org" title="Python"><img height="46" src="https://skillicons.dev/icons?i=python" alt="Python" /></a></td>
+    <td align="center" width="92"><a href="https://react.dev" title="React"><img height="46" src="https://skillicons.dev/icons?i=react" alt="React" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=express" alt="Express" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></td>
+    <td align="center" width="92"><a href="https://vite.dev" title="Vite"><img height="46" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a></td>
+    <td align="center" width="92"><a href="https://nodejs.org" title="Node.js"><img height="46" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a></td>
+    <td align="center" width="92"><a href="https://expressjs.com" title="Express"><img height="46" src="https://skillicons.dev/icons?i=express" alt="Express" /></a></td>
+    <td align="center" width="92"><a href="https://www.postgresql.org" title="PostgreSQL"><img height="46" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a></td>
+    <td align="center" width="92"><a href="https://supabase.com" title="Supabase"><img height="46" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=npm" alt="npm" /></td>
-    <td align="center" width="96"><img height="48" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></td>
+    <td align="center" width="92"><a href="https://firebase.google.com" title="Firebase"><img height="46" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a></td>
+    <td align="center" width="92"><a href="https://vitest.dev" title="Vitest"><img height="46" src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></a></td>
+    <td align="center" width="92"><a href="https://git-scm.com" title="Git"><img height="46" src="https://skillicons.dev/icons?i=git" alt="Git" /></a></td>
+    <td align="center" width="92"><a href="https://github.com" title="GitHub"><img height="46" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></td>
+    <td align="center" width="92"><a href="https://github.com/features/actions" title="GitHub Actions"><img height="46" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="92"><a href="https://code.visualstudio.com" title="VS Code"><img height="46" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a></td>
+    <td align="center" width="92"><a href="https://www.npmjs.com" title="npm"><img height="46" src="https://skillicons.dev/icons?i=npm" alt="npm" /></a></td>
+    <td align="center" width="92"><a href="https://learn.microsoft.com/pt-br/powershell/" title="PowerShell"><img height="46" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a></td>
+    <td align="center" width="92"><a href="https://claude.com/product/claude-code" title="Claude Code"><img height="46" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" /></a></td>
+    <td align="center" width="92"></td>
   </tr>
 </table>
 
@@ -150,6 +154,12 @@ automáticos que reprovam a documentação quando um número deixa de bater.
 Comentário que diz "incrementa o contador" é ruído. O que serve é o que explica
 **por que** aquela linha existe e qual bug ela evita — quem ler daqui a seis meses
 precisa disso, não da tradução do código.
+
+**4. IA é ferramenta, e ferramenta se confere.**
+Uso **Claude Code** no dia a dia, de arquitetura a revisão. A parte que importa não
+é pedir código — é saber verificar o que voltou: teste rodado nos dois sentidos,
+número medido no banco, e leitura do arquivo antes de aceitar qualquer afirmação
+sobre ele. IA acelera quem já sabe o que precisa checar.
 
 <br />
 
