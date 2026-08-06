@@ -53,7 +53,7 @@ precisava ser feito.
 |---|---|---|
 | **AlphaSync** | Sistema de gestão para operação de ambulâncias em eventos | React · Node.js · PostgreSQL |
 | **SportsLab** | PWA de gestão para academias e personal trainers | React 19 · Vite · Supabase |
-| **Canalhas** | PWA mobile-first de gestão de barbearia | React · Firebase |
+| **Barbearia** | PWA mobile-first de agenda e caixa para barbearia | React · Firebase |
 | **LogSync** | Análise e correção de jornadas de motoristas | Python |
 
 > Os repositórios são privados por envolverem dados de clientes reais.
