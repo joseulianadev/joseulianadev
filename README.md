@@ -31,64 +31,33 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Engenharia de Software na PUC Minas** e desenvolvo aplicações
-web de ponta a ponta.
+Estudante de **Engenharia de Software na PUC Minas**, aprendendo desenvolvimento
+web de ponta a ponta — interface, servidor e banco.
 
-O que me interessa não é fazer funcionar na minha máquina. É fazer funcionar
-**quando dá errado**: sem internet, no celular de alguém no meio de um evento, com
-a bateria acabando. Meu projeto principal roda nessas condições todo fim de
-semana, e foi ele que me ensinou mais do que qualquer tutorial.
+Gosto de projeto que tem gente usando do outro lado. É o tipo de coisa que ensina
+o que nenhum exercício ensina: o que quebra, o que ninguém usa e o que realmente
+precisava ser feito.
 
-- 🏥 Construo e mantenho sozinho um **PWA offline-first em produção**, usado por
-  uma equipe de atendimento pré-hospitalar
-- 🧪 **481 testes automatizados** entre front-end e back-end, rodando em CI
 - 📚 Cursando **Engenharia de Software na PUC Minas**
 - 🔎 **Buscando estágio** em desenvolvimento
+- 🌐 Foco em **web e PWA**, com JavaScript e Python
 - 🇧🇷 Português nativo · inglês técnico
 
 <br />
 
 ---
 
-## 🚑 O que eu construí
-
-### AlphaSync — gestão de atendimentos de ambulância
-
-Sistema completo para uma empresa de atendimento pré-hospitalar cobrir eventos:
-registro de atendimento, prontuário clínico, equipe, viaturas, checklist de
-equipamento e relatórios. **Está no ar e é usado em operação real.**
-
-O desafio que define o projeto: **em evento não existe internet confiável.** O app
-precisa funcionar offline por completo e sincronizar sozinho quando o sinal volta,
-sem perder nem duplicar registro de paciente.
-
-```
-React + Vite  ·  Node.js + Express  ·  PostgreSQL  ·  PWA com Service Worker
-```
-
-**O que eu resolvi nele, e que vale contar:**
-
-| Problema | Como resolvi |
-|---|---|
-| Sem internet no meio do atendimento | Fila offline em IndexedDB, com reenvio automático e ordem pai→filho preservada |
-| Mesmo registro salvo duas vezes | Chave de idempotência por operação — reenviar não duplica |
-| Duas pessoas editando a mesma ficha | Controle otimista de concorrência, com detecção de conflito |
-| Aparelho compartilhado entre a equipe | Sessão isolada por login, sem vazar identidade entre turnos |
-| Papéis diferentes veem coisas diferentes | Controle de acesso por 8 papéis operacionais, testado no servidor |
-| Prontuário não pode sumir | Remoção lógica e trilha de auditoria de quem mudou o quê |
-
-<br />
-
-### Outros projetos
+## 💻 Projetos
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| **AlphaSync** | Sistema de gestão para operação de ambulâncias em eventos | React · Node.js · PostgreSQL |
 | **SportsLab** | PWA de gestão para academias e personal trainers | React 19 · Vite · Supabase |
 | **Canalhas** | PWA mobile-first de gestão de barbearia | React · Firebase |
 | **LogSync** | Análise e correção de jornadas de motoristas | Python |
 
 > Os repositórios são privados por envolverem dados de clientes reais.
-> Tenho prazer em apresentar o código e as decisões numa conversa.
+> Tenho prazer em conversar sobre as decisões de cada projeto.
 
 <br />
 
@@ -137,29 +106,24 @@ React + Vite  ·  Node.js + Express  ·  PostgreSQL  ·  PWA com Service Worker
 
 ## 🧭 Como eu trabalho
 
-Três hábitos que eu levo a sério, porque cada um me custou caro para aprender:
+Ainda estou aprendendo muita coisa, mas algumas posturas eu já tenho firmes:
 
-**1. Teste que só passa não prova nada.**
-Todo conserto que eu escrevo, eu rodo o teste **com o conserto desfeito** — se ele
-continuar passando, o teste está medindo outra coisa. Já achei proteção que
-parecia proteger e não protegia.
+**Procuro a causa antes da correção.**
+Quando algo quebra, não me contento com o ajuste que faz o sintoma sumir. Se eu
+não entendi por que aconteceu, sei que vai voltar.
 
-**2. Número dito de cabeça apodrece.**
-Antes de afirmar "está lento" ou "ninguém usa", eu meço. Uma vez perdi tempo
-otimizando código quando o gargalo real era infraestrutura — a medição mostrou que
-2/3 do tempo de resposta não era meu código. Hoje o projeto tem verificadores
-automáticos que reprovam a documentação quando um número deixa de bater.
+**Não aceito "está pronto" sem ver.**
+Nem quando é meu. Antes de dar algo por resolvido, quero ver funcionando de
+verdade — porque já vi coisa dada como certa que não estava.
 
-**3. Comentário registra o incidente, não a linha.**
-Comentário que diz "incrementa o contador" é ruído. O que serve é o que explica
-**por que** aquela linha existe e qual bug ela evita — quem ler daqui a seis meses
-precisa disso, não da tradução do código.
+**Escuto quem usa.**
+As melhores decisões que tomei vieram de quem usa o sistema todo dia reclamando
+de algo específico. Já tirei funcionalidade inteira do ar por não ter ninguém
+usando, e o produto ficou melhor sem ela.
 
-**4. IA é ferramenta, e ferramenta se confere.**
-Uso **Claude Code** no dia a dia, de arquitetura a revisão. A parte que importa não
-é pedir código — é saber verificar o que voltou: teste rodado nos dois sentidos,
-número medido no banco, e leitura do arquivo antes de aceitar qualquer afirmação
-sobre ele. IA acelera quem já sabe o que precisa checar.
+**Prefiro admitir o que ainda não sei.**
+Estou começando em Java e não coloco na lista de linguagens por isso. Prefiro
+chegar na conversa sabendo defender tudo o que digo saber.
 
 <br />
 
