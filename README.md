@@ -6,6 +6,9 @@
 
 <br />
 
+<a href="https://www.linkedin.com/in/joseuliana/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="mailto:ulianajosee@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -134,11 +137,11 @@ precisa disso, não da tradução do código.
 
 Estou **procurando estágio ou primeira oportunidade** como desenvolvedor.
 
+<a href="https://www.linkedin.com/in/joseuliana/">
+  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fjoseuliana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="mailto:ulianajosee@gmail.com">
   <img src="https://img.shields.io/badge/ulianajosee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br /><br />
