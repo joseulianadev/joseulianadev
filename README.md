@@ -121,9 +121,9 @@ As melhores decisões que tomei vieram de quem usa o sistema todo dia reclamando
 de algo específico. Já tirei funcionalidade inteira do ar por não ter ninguém
 usando, e o produto ficou melhor sem ela.
 
-**Prefiro admitir o que ainda não sei.**
-Estou começando em Java e não coloco na lista de linguagens por isso. Prefiro
-chegar na conversa sabendo defender tudo o que digo saber.
+**Só digo saber o que sei defender.**
+A lista aqui em cima é curta de propósito: cada item ali eu consigo explicar e
+mostrar onde usei. O que ainda está em estudo entra quando virar prática.
 
 <br />
 
