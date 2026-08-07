@@ -55,11 +55,12 @@ precisava ser feito.
 | **SportsLab** | PWA de gestão para academias e personal trainers | React 19 · Vite · Supabase |
 | **Barbearia** | PWA mobile-first de agenda e caixa para barbearia | React · Firebase |
 | **LogSync** | Análise e correção de jornadas de motoristas | Python |
-| **[Portfólio 3D](https://github.com/joseulianadev/portfolio)** | Portfólio em uma página com elementos 3D interativos | Three.js · Vite · GSAP |
+| **[Portfólio 3D](https://joseuliana.vercel.app)** | Portfólio em uma página com elementos 3D interativos — [código aberto](https://github.com/joseulianadev/portfolio) | Three.js · Vite · GSAP |
 
 > Os quatro primeiros são privados por envolverem dados de clientes reais —
-> mas o **[portfólio é aberto](https://github.com/joseulianadev/portfolio)**, se
-> você quiser ler código meu antes de me chamar para conversar.
+> mas o portfólio está **[no ar](https://joseuliana.vercel.app)** e com o
+> **[código aberto](https://github.com/joseulianadev/portfolio)**, se você
+> quiser ver funcionando ou ler o código antes de me chamar para conversar.
 
 <br />
 
@@ -164,8 +165,8 @@ Estou **procurando estágio ou primeira oportunidade** como desenvolvedor.
 <a href="mailto:ulianajosee@gmail.com">
   <img src="https://img.shields.io/badge/ulianajosee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/joseulianadev/portfolio">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio%20%2B%20curr%C3%ADculo-10B981?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfólio e currículo" />
+<a href="https://joseuliana.vercel.app">
+  <img src="https://img.shields.io/badge/joseuliana.vercel.app-10B981?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfólio: joseuliana.vercel.app" />
 </a>
 
 <br /><br />
