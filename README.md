@@ -1,7 +1,3 @@
-<a href="https://joseuliana.vercel.app">
-  <img src="./assets/portfolio.png" width="100%" alt="Portfólio de José Victor Uliana — abre o site joseuliana.vercel.app" />
-</a>
-
 <div align="center">
 
 <a href="https://joseuliana.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-joseuliana.vercel.app-FF4A1C?style=flat-square&labelColor=11100E" alt="Portfólio: joseuliana.vercel.app" /></a>
